@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-invoking-default-method.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-invoking-default-method)
+
 # java11-invoking-default-method
 Explicitly invoking default method from enclosing interface.
 
